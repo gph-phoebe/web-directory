@@ -5,6 +5,6 @@
   "author": "Web Directory Maintainers",
   "license": "MIT",
   "scripts": {
-    "start": "echo \"No build step needed\""
+    "start": "serve -s ."
   }
 }
