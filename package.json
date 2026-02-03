@@ -1,0 +1,10 @@
+{
+  "name": "web-directory",
+  "version": "1.0.0",
+  "description": "Curated links & resources for web development & design 2024.",
+  "author": "Web Directory Maintainers",
+  "license": "MIT",
+  "scripts": {
+    "start": "echo \"No build step needed\""
+  }
+}
